@@ -84,7 +84,3 @@ Se você quiser contribuir, siga estas etapas:
 * **[DESENVOLVIDO POR LEONARDO CHRISTINO]** - *Desenvolvimento Inicial* - [lEONARDO CHRISTIHNO - GITHUB = ](https://github.com/monkey272)
 
 ---
-
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença [Nome da Licença, Ex: MIT] - veja o arquivo `LICENSE.md` para mais detalhes.
