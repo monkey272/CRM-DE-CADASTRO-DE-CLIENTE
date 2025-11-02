@@ -81,7 +81,7 @@ Se você quiser contribuir, siga estas etapas:
 
 ## ✒️ Autor
 
-* **[Seu Nome ou Nome da Equipe]** - *Desenvolvimento Inicial* - [Seu Perfil do GitHub](https://github.com/monkey272)
+* **[DESENVOLVIDO POR LEONARDO CHRISTINO]** - *Desenvolvimento Inicial* - [lEONARDO CHRISTIHNO - GITHUB = ](https://github.com/monkey272)
 
 ---
 
