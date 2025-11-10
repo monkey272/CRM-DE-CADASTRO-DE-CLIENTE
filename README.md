@@ -1,12 +1,12 @@
-# 🚀 CRM de Captação e Gestão de Leads
+ 🚀 CRM de Captação e Gestão de Leads
 
-## 🎯 Sobre o Projeto
+🎯 Sobre o Projeto
 
 O **CRM de Captação e Gestão de Leads** é uma solução desenvolvida para centralizar e otimizar o processo de *Customer Relationship Management (CRM)*, com um foco especial na **Captação e Qualificação de Leads**.
 
 Este sistema visa substituir planilhas e processos manuais, oferecendo uma interface organizada para cadastrar, acompanhar e gerenciar o relacionamento com clientes e potenciais clientes (leads) em todas as etapas do funil de vendas.
 
-### ✨ Principais Funcionalidades
+ ✨ Principais Funcionalidades
 
 * **Cadastro Completo de Clientes/Leads:** Armazena informações detalhadas, como nome, contato, fonte do lead e status de prospecção.
 * **Gestão do Funil de Vendas:** Classificação e rastreamento de leads por diferentes estágios (Ex: Novo Lead, Qualificação, Proposta Enviada, Cliente Ativo).
@@ -20,10 +20,10 @@ Liste aqui as principais tecnologias que você utilizou no Back-end e Front-end.
 
 | Categoria | Tecnologia/Framework |
 | :--- | :--- |
-| **Front-end** | HTML, CSS, JavaScript (React, Vue, Angular, etc.) |
-| **Back-end** | (Node.js, Python/Django, Java/Spring, etc.) |
-| **Banco de Dados** | (PostgreSQL, MySQL, MongoDB, etc.) |
-| **Outros** | Git, GitHub, (Ex: Docker, se aplicável) |
+| **Front-end** | CSS, JavaScript (React) |
+| **Back-end** | (Java/Spring) |
+| **Banco de Dados** | (PostgreSQL) |
+| **Outros** | GitHub |
 
 ## ⚙️ Como Configurar e Rodar o Projeto
 
